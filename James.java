@@ -2,7 +2,7 @@ public class James
 {
     public static void main(String[]args)
     {
-        int a = 1000;
+        int a = 1000;//initialization//
         int b = 2000;
 
         int c = a + b;
